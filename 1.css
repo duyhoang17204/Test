@@ -125,7 +125,7 @@ a:hover {
   visibility: hidden;
   transform: scale(0);
 }
-.active{
+.active {
   visibility: visible;
   transform: scale(1);
 }
@@ -157,4 +157,3 @@ form input {
   background-color: darkgoldenrod;
   color: white;
 }
-
